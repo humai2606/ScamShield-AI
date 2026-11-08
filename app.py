@@ -280,8 +280,7 @@ if st.button(
             except Exception as error:
                 st.error(f"Something went wrong: {error}")
 if "latest_report" in st.session_state:
-    report = st.session_state.latest_report
-
+   st.rerun()
     st.divider()
     st.markdown(
         '<div class="section-title">📊 Investigation Report</div>',
