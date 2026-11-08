@@ -1,5 +1,5 @@
 # ScamShield AI – AI-Powered Scam Message Investigator
-
+APP LINK:=https://scamshield-ai-hf9tsrppjpjbfvguha6epg.streamlit.app/
 ## Project Overview
 
 ScamShield AI is an AI-powered web application that analyzes suspicious messages and helps users identify potential scams, phishing attempts, and fraudulent activities.
