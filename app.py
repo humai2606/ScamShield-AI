@@ -260,7 +260,7 @@ if st.button(
                 )
 
                 st.session_state.history.append(report)
-                st.session_state.latest_report = report
+                st.rerun()
 
                 st.success("Investigation completed successfully!")
 
@@ -280,7 +280,7 @@ if st.button(
             except Exception as error:
                 st.error(f"Something went wrong: {error}")
 if "latest_report" in st.session_state:
-   st.rerun()
+   report = st.session_state.latest_report
     st.divider()
     st.markdown(
         '<div class="section-title">📊 Investigation Report</div>',
