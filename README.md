@@ -1,6 +1,13 @@
 # ScamShield AI – AI-Powered Scam Message Investigator
 APP LINK:=https://scamshield-ai-hf9tsrppjpjbfvguha6epg.streamlit.app/
 ## Project Overview
+SCREENSHORT:
+<img width="1881" height="830" alt="{89042051-08D1-4F02-BA65-6301380EEAB5}" src="https://github.com/user-attachments/assets/a5d7e817-e37f-4307-8f93-ae529d869d70" />
+<img width="1431" height="719" alt="{294C409D-B568-4AEB-818D-E66E73DC89AF}" src="https://github.com/user-attachments/assets/8f81ba67-b64d-4906-88c5-4ee222e0ba75" />
+<img width="1430" height="772" alt="{AA67E7AE-5D4A-4159-B1FD-E7F2877F1FD4}" src="https://github.com/user-attachments/assets/4d5a71bd-188b-47f0-98ce-b4f1fa3074cf" />
+<img width="1350" height="761" alt="{D8AD98C9-0578-42FB-A0AB-6F8768CB30AA}" src="https://github.com/user-attachments/assets/52efa63c-79fb-4ea4-bd59-14ee527779a0" />
+<img width="1908" height="832" alt="{099F1900-E5A1-48C6-9ECF-D29982A907CE}" src="https://github.com/user-attachments/assets/b00f554e-25f0-4920-9a67-a4295c5aaa8f" />
+<img width="1430" height="659" alt="{5660B91D-54B0-4703-A312-F3E22F4F7D9D}" src="https://github.com/user-attachments/assets/21bf6bff-3184-4247-977b-a10323e5a4f3" />
 
 ScamShield AI is an AI-powered web application that analyzes suspicious messages and helps users identify potential scams, phishing attempts, and fraudulent activities.
 
