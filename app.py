@@ -280,13 +280,13 @@ if st.button(
             except Exception as error:
                 st.error(f"Something went wrong: {error}")
 if "latest_report" in st.session_state:
-   report = st.session_state.latest_report
+    report = st.session_state.latest_report
+
     st.divider()
     st.markdown(
         '<div class="section-title">📊 Investigation Report</div>',
         unsafe_allow_html=True
     )
-
     st.write("Investigated on:", report["date"])
 
     c1, c2, c3 = st.columns(3)
